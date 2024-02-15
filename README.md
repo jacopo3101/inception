@@ -3,8 +3,6 @@
 ## Score
 ![project score](/assets/score.png)
 
-# Project Inception: System Administration with Docker
-
 ## Description
 Project Inception is a hands-on exercise in system administration, focusing on Docker virtualization. It involves setting up a small infrastructure of different services within a personal virtual machine environment.
 The Docker image must be built from scratch, starting from the penultimate stable version of Debian or Alpine.
